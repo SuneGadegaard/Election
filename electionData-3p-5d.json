@@ -1,0 +1,13 @@
+{
+  "parties" : ["A", "B", "C"],
+  "regions" : ["1", "2", "3", "4", "5"],
+  "registered" : [25, 23, 40, 50, 18],
+  "votes" : [[10,	6,	4],
+              [6,	8,	3],
+              [13,	9,	3],
+              [21,	15,	5],
+              [8,	3,	2]],
+  "numberOfSeats" : 15,
+  "deviationWeight" : [3, 5, 1],
+  "minNumSeatsPerRegion" : 1
+}
